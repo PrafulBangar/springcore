@@ -17,7 +17,8 @@ public class TestCollections {
 		System.out.println(emp1Objcet.getPhones());
 		System.out.println(emp1Objcet.getCourses());
 		
-		
+		System.out.println("ends");
 	}
 
 }
+
